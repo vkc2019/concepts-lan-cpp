@@ -1,0 +1,72 @@
+data types
+    Signed
+    UnSigned
+    Long
+    Short
+flow controls
+pointers
+datastructures
+containers
+class
+inheritance
+interfaces
+
+
+
+
+
+Behavioural -
+Creational  - how efficent to create patterns
+    - Abstract Factory  :
+    - Prototype         - Fully Initialized instance to be copied or cloned ( eg. chess game )
+    - Builder           - Complex Object Structure ( Domain Driven Design ), ( Multi Course dinner ) ( starter, drinks, main course, desert )
+    - Singletone        - Single Instance of the class ( eg. java.lang.system ) - make the prviate constructure
+    - Factory           -
+Structural  -
+
+
+https://www.youtube.com/watch?v=bFSnXNIsK4A
+https://howtodoinjava.com/design-patterns/structural/bridge-design-pattern/
+
+
+
+
+
+
+HEAP
+STACK
+Static/global
+Code/Text
+
+
+Storage classes
+Pointers/References/Arrays
+Function Pointers
+Character/String manipulations
+Linked Lists
+Memory management (Allocation and de-allocation)
+Bit wise operations
+Static and Dynamic linking of dll’s with respect to WINDOWS environment
+Debugging and tracing memory leaks etc
+
+OOPS basics and its internals, memory management.
+Exception handling etc 
+
+Multithreading, Network socket programming, STL containers, Design patterns etc
+
+
+
+SOLID
+#Single Responsiblity Principle
+#Open/Close Principle  - Open for extension and close for modification
+#Liskov's Subsitution Principle
+#Interface Sagregation Principle
+#Dependency Inversion Principle
+
+Compilation Process
+    -- Preprocessors
+    -- Compiler
+    -- Assembler
+    -- Linker
+
+
