@@ -37,6 +37,8 @@ public:
     }
 };
 
+constexpr int x = 0;
+
 void classConst()
 {
     User user;
@@ -46,6 +48,7 @@ void classConst()
 
 int main()
 {
+    std::cout << x++ << std::endl;
     // constData();
     // constPointer();
     classConst();
